@@ -1,5 +1,7 @@
 # 3D Particle Screensaver with Spheres
 
+![example usage](Advanced Screensaver 06.05.2025 15_51_15.png)
+
 ## Описание
 
 Скринсейвер на C# с использованием OpenTK, создающий эффектное 3D-пространство с:
