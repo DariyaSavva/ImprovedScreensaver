@@ -1,6 +1,6 @@
 # 3D Particle Screensaver with Spheres
 
-![example usage](Advanced Screensaver 06.05.2025 15_51_15.png)
+![](https://github.com/DariyaSavva/ImprovedScreensaver/blob/master/Advanced%20Screensaver%2006.05.2025%2015_51_15.png)
 
 ## Описание
 
